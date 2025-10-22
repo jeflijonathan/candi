@@ -1,0 +1,2 @@
+untuk mengabil gam
+flutter pub add cached_network_image
